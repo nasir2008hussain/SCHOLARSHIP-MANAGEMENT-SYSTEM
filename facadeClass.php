@@ -587,8 +587,8 @@ class DBFacade
          $ret = "1";
          return $ret;
       } else {
-         $ret = "2";
-         return $ret;
+         $retsvalue = "2";
+         return $retsvalue;
       }
    }
 
@@ -727,6 +727,6 @@ transcripts,applicationStatus,reserved,totalIncome,totalExpenses,savedIncome,pro
       return $statusReport;
 
    }
- 
+
 }
 ?>
