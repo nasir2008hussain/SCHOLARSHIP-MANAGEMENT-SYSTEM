@@ -105,7 +105,7 @@ if(isset($_SESSION["applyNowSch"])){
             <h3 class="bodyHeadings" id="docHead">Document</h3>
             <p id="docDesc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis earum mollitia magnam
                 cumque ullam tempore, molestias doloremque totam nostrum ipsum laborum atque dolores cum qui, ut placeat
-                distinctio nihil ex. Molestiae iure aliquid quod hic eveniet</p>
+                distinctio nihl ex. Molestiae iure aliquid quod hic eveniet</p>
             <hr>
             <table>
                 <tr>
